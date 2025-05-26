@@ -26,7 +26,7 @@
 
 <p align="left">
   I'm a PhD student at the University of Sydney, exploring the intersection of medical data, language models, and responsible AI.<br><br>
-  - 🔭 Currently researching **multimodal AI models** for personalized healthcare<br>
+  - 🔭 Currently researching multimodal AI models for personalized healthcare<br>
   - 🎓 Graduated with Bacelor of Advanced Computing (Honours) in 2024, awarded Honours Class 1<br>
   - 🌏 I love collaborating with people from different disciplines to solve real-world health problems<br>
 </p>
